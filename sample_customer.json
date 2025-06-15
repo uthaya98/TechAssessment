@@ -1,0 +1,72 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "emailOffice": "john.doe@company.com",
+    "emailPersonal": "john.doe@gmail.com",
+    "familyMembers": 3
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Clark",
+    "emailOffice": "emily.clark@company.com",
+    "emailPersonal": "emilyc@yahoo.com",
+    "familyMembers": 4
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Ng",
+    "emailOffice": "michael.ng@company.com",
+    "emailPersonal": "michael.ng@hotmail.com",
+    "familyMembers": 2
+  },
+  {
+    "firstName": "Aisha",
+    "lastName": "Rahman",
+    "emailOffice": "aisha.rahman@company.com",
+    "emailPersonal": "aisha.rahman@gmail.com",
+    "familyMembers": 5
+  },
+  {
+    "firstName": "David",
+    "lastName": "Lee",
+    "emailOffice": "david.lee@company.com",
+    "emailPersonal": "dlee123@gmail.com",
+    "familyMembers": 1
+  },
+  {
+    "firstName": "Siti",
+    "lastName": "Zahra",
+    "emailOffice": "siti.zahra@company.com",
+    "emailPersonal": "siti.zahra@hotmail.com",
+    "familyMembers": 6
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Tan",
+    "emailOffice": "liam.tan@company.com",
+    "emailPersonal": "liam.tan@yahoo.com",
+    "familyMembers": 2
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Ahmad",
+    "emailOffice": "nora.ahmad@company.com",
+    "emailPersonal": "nora.ahmad@gmail.com",
+    "familyMembers": 3
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Chong",
+    "emailOffice": "kevin.chong@company.com",
+    "emailPersonal": "kevin.chong@gmail.com",
+    "familyMembers": 4
+  },
+  {
+    "firstName": "Amira",
+    "lastName": "Ismail",
+    "emailOffice": "amira.ismail@company.com",
+    "emailPersonal": "amira.ismail@yahoo.com",
+    "familyMembers": 5
+  }
+]

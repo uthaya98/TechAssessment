@@ -1,0 +1,52 @@
+[
+  {
+    "bookTitle": "Spring Boot in Action",
+    "bookPrice": 49.99,
+    "bookQuantity": 5
+  },
+  {
+    "bookTitle": "Effective Java",
+    "bookPrice": 39.95,
+    "bookQuantity": 3
+  },
+  {
+    "bookTitle": "Clean Code",
+    "bookPrice": 45.00,
+    "bookQuantity": 7
+  },
+  {
+    "bookTitle": "Java Concurrency in Practice",
+    "bookPrice": 52.75,
+    "bookQuantity": 2
+  },
+  {
+    "bookTitle": "Design Patterns",
+    "bookPrice": 34.90,
+    "bookQuantity": 10
+  },
+  {
+    "bookTitle": "Microservices Patterns",
+    "bookPrice": 59.99,
+    "bookQuantity": 4
+  },
+  {
+    "bookTitle": "Head First Java",
+    "bookPrice": 44.50,
+    "bookQuantity": 6
+  },
+  {
+    "bookTitle": "The Pragmatic Programmer",
+    "bookPrice": 41.00,
+    "bookQuantity": 8
+  },
+  {
+    "bookTitle": "Refactoring",
+    "bookPrice": 47.25,
+    "bookQuantity": 5
+  },
+  {
+    "bookTitle": "Introduction to Algorithms",
+    "bookPrice": 89.95,
+    "bookQuantity": 3
+  }
+]
