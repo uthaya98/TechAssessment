@@ -1,0 +1,10 @@
+###
+http://localhost:8080/api/customers/saveCustomer
+Content-Type: application/json
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "emailOffice": "john.doe@office.com",
+  "emailPersonal": "john.doe@gmail.com",
+  "familyMembers": 4
+}
