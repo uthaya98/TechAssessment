@@ -110,13 +110,6 @@ spring.kafka.bootstrap-servers=localhost:9092
 
 ---
 
-## 📝 Logging & Error Handling
-
-- Uses **Logback** for application and request/response logging.
-- Centralized exception handling using `@ControllerAdvice` to manage validation errors, not found exceptions, and more.
-
----
-
 ## 🚀 Running the Application
 
 ### Prerequisites
