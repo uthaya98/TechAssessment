@@ -138,7 +138,7 @@ mvn spring-boot:run
 
 ### Data
 
-- I have upload 2 json files which are sample_product.json and sample_customer.json for testing
+- I have upload 2 json files which are sample_product.json(Consists of Sample data of products) and sample_customer.json(Consists of Sample data of Customers) for testing
 
 ---
 ## 👨‍💻 Author
