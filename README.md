@@ -58,6 +58,11 @@ Interactive Swagger UI is available for testing and exploring endpoints.
 | POST   | `/api/customers`      | Create a new customer    |
 | PUT    | `/api/customers/{id}` | Update an existing customer |
 | DELETE | `/api/customers/{id}` | Delete a customer        |
+| GET    | `/api/customers/{id}` | Get one customer         |
+| POST   | `/api/customers/bulk` | add customers            |
+| PUT    | `/api/customers/bulk` | Update existing customers|
+| DELETE | `/api/customers/bulk` | Delete all customers     |
+
 
 ### Product Endpoints
 
@@ -67,6 +72,10 @@ Interactive Swagger UI is available for testing and exploring endpoints.
 | POST   | `/api/products`      | Create a new product     |
 | PUT    | `/api/products/{id}` | Update an existing product |
 | DELETE | `/api/products/{id}` | Delete a product         |
+| GET    | `/api/products/{id}` | Get one product          |
+| POST   | `/api/products/bulk` | add new products         |
+| PUT    | `/api/products/bulk` | Update existing products |
+| DELETE | `/api/products/bulk` | Delete all products      |
 
 ### Report Endpoint
 
