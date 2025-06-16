@@ -81,7 +81,7 @@ Interactive Swagger UI is available for testing and exploring endpoints.
 
 | Method | Endpoint                     | Description                  |
 |--------|------------------------------|------------------------------|
-| GET    | `/api/reports/export/excel`  | Export customer & product data as Excel report (JasperReports) |
+| GET    | `/report/excel`  | Export customer & product data as Excel report (JasperReports) |
 
 ---
 
