@@ -55,7 +55,7 @@ Interactive Swagger UI is available for testing and exploring endpoints.
 | Method | Endpoint              | Description              |
 |--------|-----------------------|--------------------------|
 | GET    | `/api/customers`      | Get all customers        |
-| POST   | `/api/customers`      | Create a new customer    |
+| POST   | `/api/customers/saveCustomer`| Create a new customer    |
 | PUT    | `/api/customers/{id}` | Update an existing customer |
 | DELETE | `/api/customers/{id}` | Delete a customer        |
 | GET    | `/api/customers/{id}` | Get one customer         |
