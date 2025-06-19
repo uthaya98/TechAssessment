@@ -1,6 +1,6 @@
 # 📚 Customer & Product Management API
 
-A **Spring Boot 3.5.0** RESTful API built using **Java 17** to manage Customers and Products. This project demonstrates a production-ready backend with features like CRUD operations, structured logging, exception handling, report generation using JasperReports, Swagger documentation, and optional integrations with Kafka and Hazelcast.
+A **Spring Boot 3.5.0** RESTful API built using **Java 17** to manage Customers and Products. This project demonstrates a production-ready backend with features like CRUD operations, structured logging, exception handling, report generation using JasperReports, Swagger documentation, and optional integrations with Kafka.
 
 ---
 
@@ -14,7 +14,6 @@ A **Spring Boot 3.5.0** RESTful API built using **Java 17** to manage Customers 
 - **Swagger / OpenAPI (springdoc-openapi)**
 - **JasperReports** (Excel export support)
 - **Kafka** (optional event messaging)
-- **Hazelcast** (optional caching)
 - **Logback** (for logging)
 - **Lombok** (for cleaner code)
 - **Maven** (build tool)
