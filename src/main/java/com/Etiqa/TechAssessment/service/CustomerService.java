@@ -38,13 +38,13 @@ public class CustomerService {
         return customerRepository.findAll();
     }
 
-    public Customer updateCustomer(Long id, Customer dto){
+    public Customer updateCustomer(Long id, Customer cust){
         Customer customer = getCustomer(id);
-        customer.setFirstName(dto.getFirstName());
-        customer.setLastName(dto.getLastName());
-        customer.setEmailOffice(dto.getEmailOffice());
-        customer.setEmailPersonal(dto.getEmailPersonal());
-        customer.setFamilyMembers(dto.getFamilyMembers());
+        customer.setFirstName(cust.getFirstName());
+        customer.setLastName(cust.getLastName());
+        customer.setEmailOffice(cust.getEmailOffice());
+        customer.setEmailPersonal(cust.getEmailPersonal());
+        customer.setFamilyMembers(cust.getFamilyMembers());
 
         Customer updated = customerRepository.save(customer);
         log.info("Customer updated with ID: {}", id);
