@@ -39,11 +39,11 @@ public class ProductService {
         return productRepository.findAll();
     }
 
-   public Product updateProduct(Long id, Product dto){
+   public Product updateProduct(Long id, Product prod){
         Product product = getProduct(id);
-        product.setBookTitle(dto.getBookTitle());
-        product.setBookPrice(dto.getBookPrice());
-        product.setBookQuantity(dto.getBookQuantity());
+        product.setBookTitle(prod.getBookTitle());
+        product.setBookPrice(prod.getBookPrice());
+        product.setBookQuantity(prod.getBookQuantity());
         Product updated = productRepository.save(product);
         log.info("Product updated with ID: {}", id);
         return updated;
